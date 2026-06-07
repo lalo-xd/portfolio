@@ -5,7 +5,7 @@ const Contact: React.FC = () => {
         <div className='flex flex-wrap justify-around items-center '>
             <div className='flex items-center flex-wrap'>
                 <section className="flex justify-center items-center">
-                    <a href="https://github.com/salub-xd" target='_blank' rel="noreferrer">
+                    <a href="https://github.com/lalo-xd" target='_blank' rel="noreferrer">
                         <button
 
                             className="group flex justify-center p-2 rounded-md drop-shadow-xl bg-gradient-to-r from-gray-900 to-black text-white font-semibold hover:translate-y-3 hover:rounded-full transition-all duration-500 hover:from-[#331029] hover:to-[#310413]"
@@ -40,7 +40,7 @@ const Contact: React.FC = () => {
                     </span>
                     <span className="tooltip-contact group flex justify-center p-2 rounded-md drop-shadow-xl bg-gradient-to-r from-gray-900 to-black text-white font-semibold hover:translate-y-3 hover:rounded-full transition-all duration-500 hover:from-[#070206] hover:to-[#17080d]">
                         <span className='text-xs flex items-center text-center py-1.5 select-none font-thin'>@</span>
-                        salub
+                        yourlalo
                     </span>
                 </div>
             </div>
