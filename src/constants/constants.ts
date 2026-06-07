@@ -162,8 +162,8 @@ export const Projects: Project[] = [
     description:
       "A personal portfolio website built with React to showcase projects, skills, and experience.",
     img: portfolio,
-    githubLink: "https://github.com/lalo-xd/salub-portfolio",
-    siteLink: "https://Salub.netlify.app",
+    githubLink: "https://github.com/lalo-xd/portfolio",
+    siteLink: "https://lalo-xd.netlify.app",
     tools: ["React", "JavaScript", "Motion", "CSS"],
   },
   {
