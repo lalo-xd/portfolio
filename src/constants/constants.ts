@@ -129,7 +129,7 @@ export const Projects: Project[] = [
     description:
       "An open-source application for efficiently storing, organizing, and managing personal links.",
     img: mylinks,
-    githubLink: "https://github.com/salub-xd/mylinks",
+    githubLink: "https://github.com/lalo-xd/mylinks",
     tools: ["Next.js", "PostgreSQL", "Prisma", "Redis"],
   },
   {
@@ -137,7 +137,7 @@ export const Projects: Project[] = [
     description:
       "A fast and simple URL shortener for generating clean, shareable links.",
     img: urlshortner,
-    githubLink: "https://github.com/salub-xd/url-shortner",
+    githubLink: "https://github.com/lalo-xd/url-shortner",
     siteLink: "https://links-shortify.vercel.app/",
     tools: ["Next.js", "PostgreSQL", "Prisma", "Tailwind CSS"],
   },
@@ -146,7 +146,7 @@ export const Projects: Project[] = [
     description:
       "A full-featured e-commerce application built with secure payments and modern web technologies.",
     img: ecommerce,
-    githubLink: "https://github.com/salub-xd/nextjs-ecommerce",
+    githubLink: "https://github.com/lalo-xd/nextjs-ecommerce",
     tools: ["Next.js", "PostgreSQL", "Prisma", "Tailwind CSS"],
   },
   {
@@ -154,7 +154,7 @@ export const Projects: Project[] = [
     description:
       "A social media platform clone featuring real-time interactions, user authentication, and scalable architecture.",
     img: twitterClone,
-    githubLink: "https://github.com/salub-xd/twitter-clone",
+    githubLink: "https://github.com/lalo-xd/twitter-clone",
     tools: ["Next.js", "PostgreSQL", "Prisma", "GraphQL", "Node.js"],
   },
   {
@@ -162,7 +162,7 @@ export const Projects: Project[] = [
     description:
       "A personal portfolio website built with React to showcase projects, skills, and experience.",
     img: portfolio,
-    githubLink: "https://github.com/salub-xd/salub-portfolio",
+    githubLink: "https://github.com/lalo-xd/salub-portfolio",
     siteLink: "https://Salub.netlify.app",
     tools: ["React", "JavaScript", "Motion", "CSS"],
   },
@@ -171,7 +171,7 @@ export const Projects: Project[] = [
     description:
       "A full-stack Reddit clone developed using the MERN stack, supporting posts, comments, and user interactions.",
     img: redditClone,
-    githubLink: "https://github.com/salub-xd/reddit-clone",
+    githubLink: "https://github.com/lalo-xd/reddit-clone",
     tools: ["MongoDB", "Express.js", "React", "Node.js"],
   },
   {
@@ -179,7 +179,7 @@ export const Projects: Project[] = [
     description:
       "A simple and intuitive note-taking application built with React, focusing on clean UI and usability.",
     img: reactNote,
-    githubLink: "https://github.com/salub-xd/react-note-app",
+    githubLink: "https://github.com/lalo-xd/react-note-app",
     tools: ["React", "JavaScript", "CSS"],
   },
 ];
